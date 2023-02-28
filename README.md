@@ -1,13 +1,15 @@
-# svg-maps
+# jetpunk-stuff
 
-This repository contains SVG maps I used for JetPunk
+This repository contains things I used for JetPunk including SVG maps.
 
 ## jpmuni
 
-Mnicipalities in Japan by prefecture
+Municipalities in Japan by prefecture
 
-Width: ≤690
-Height: 600  
+Used for [https://www.jetpunk.com/series/1557301/00](municipality quizzes by prefecture)
+
+Width: ≤690  
+Height: 600
 
 ### file names
 
