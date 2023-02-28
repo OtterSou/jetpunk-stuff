@@ -6,7 +6,7 @@ This repository contains things I used for JetPunk including SVG maps.
 
 Municipalities in Japan by prefecture
 
-Used for [https://www.jetpunk.com/series/1557301/00](municipality quizzes by prefecture)
+Used for [municipality quizzes by prefecture](https://www.jetpunk.com/series/1557301/00)
 
 Width: ≤690  
 Height: 600
